@@ -1,15 +1,15 @@
 import 'dart:io';
 
-import 'package:chatwoot_sdk/chatwoot_sdk.dart';
-import 'package:chatwoot_sdk/chatwoot_parameters.dart';
-import 'package:chatwoot_sdk/data/local/dao/chatwoot_contact_dao.dart';
-import 'package:chatwoot_sdk/data/local/dao/chatwoot_conversation_dao.dart';
-import 'package:chatwoot_sdk/data/local/dao/chatwoot_messages_dao.dart';
-import 'package:chatwoot_sdk/data/local/dao/chatwoot_user_dao.dart';
-import 'package:chatwoot_sdk/data/local/entity/chatwoot_contact.dart';
-import 'package:chatwoot_sdk/data/local/entity/chatwoot_conversation.dart';
-import 'package:chatwoot_sdk/data/remote/responses/chatwoot_event.dart';
-import 'package:chatwoot_sdk/di/modules.dart';
+import 'package:chatwoot_sdk_update/chatwoot_sdk.dart';
+import 'package:chatwoot_sdk_update/chatwoot_parameters.dart';
+import 'package:chatwoot_sdk_update/data/local/dao/chatwoot_contact_dao.dart';
+import 'package:chatwoot_sdk_update/data/local/dao/chatwoot_conversation_dao.dart';
+import 'package:chatwoot_sdk_update/data/local/dao/chatwoot_messages_dao.dart';
+import 'package:chatwoot_sdk_update/data/local/dao/chatwoot_user_dao.dart';
+import 'package:chatwoot_sdk_update/data/local/entity/chatwoot_contact.dart';
+import 'package:chatwoot_sdk_update/data/local/entity/chatwoot_conversation.dart';
+import 'package:chatwoot_sdk_update/data/remote/responses/chatwoot_event.dart';
+import 'package:chatwoot_sdk_update/di/modules.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:riverpod/riverpod.dart';

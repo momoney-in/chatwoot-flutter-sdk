@@ -1,10 +1,10 @@
-import 'package:chatwoot_sdk/chatwoot_callbacks.dart';
-import 'package:chatwoot_sdk/chatwoot_client.dart';
-import 'package:chatwoot_sdk/data/local/entity/chatwoot_message.dart';
-import 'package:chatwoot_sdk/data/local/entity/chatwoot_user.dart';
-import 'package:chatwoot_sdk/data/remote/chatwoot_client_exception.dart';
-import 'package:chatwoot_sdk/ui/chatwoot_chat_theme.dart';
-import 'package:chatwoot_sdk/ui/chatwoot_l10n.dart';
+import 'package:chatwoot_sdk_update/chatwoot_callbacks.dart';
+import 'package:chatwoot_sdk_update/chatwoot_client.dart';
+import 'package:chatwoot_sdk_update/data/local/entity/chatwoot_message.dart';
+import 'package:chatwoot_sdk_update/data/local/entity/chatwoot_user.dart';
+import 'package:chatwoot_sdk_update/data/remote/chatwoot_client_exception.dart';
+import 'package:chatwoot_sdk_update/ui/chatwoot_chat_theme.dart';
+import 'package:chatwoot_sdk_update/ui/chatwoot_l10n.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_chat_types/flutter_chat_types.dart' as types;
 import 'package:flutter_chat_ui/flutter_chat_ui.dart';

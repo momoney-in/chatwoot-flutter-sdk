@@ -38,3 +38,19 @@
 
 - Fixed message sending issues
 - Adds development docs
+
+## [0.0.9+1] - Dec 12,2023
+
+- Fixed Versioning Issues with Intl
+
+## [0.0.9+2] - Dec 12,2023
+
+- Fixed Versioning Issues with Intl
+
+## [0.0.9+3] - Dec 12,2023
+
+- Fixed Issues with JSON Serializable
+
+## [0.0.9+4] - Dec 12,2023
+
+- Updated Issues with JSON Serializable
